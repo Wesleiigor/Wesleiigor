@@ -25,6 +25,9 @@
 
 ## <picture><img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/gif/cert1.gif" width ="25"></picture><b> Certificações</b>
 
+<a href="https://www.credly.com/badges/2aebdbca-fb7a-4081-b4d8-286d2360c646" target="_blank">
+<img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/png/6.png" width = "150" >
+</a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3BCB8CB68DD3791E81F4725AB89FB6CB2C5CA4D42AEBDE3790D3D62187DECDC6" target="_blank">
 <img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/png/1.png" width = "150" >
 </a>
