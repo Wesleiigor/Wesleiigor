@@ -7,7 +7,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/Wesleiigor/Westi_home/blob/master/img/gif/hack.gif" width = 50px></picture> **Sobre Mim**
+## <picture><img src = "https://github.com/Wesleiigor/Wesleiigor/blob/main/img/gif/hack.gif" width = 50px></picture> **Sobre Mim**
 
 <br>
 
@@ -21,31 +21,31 @@
 
 
 
-<picture><img src="https://github.com/Wesleiigor/Westi_home/blob/master/img/gif/line.gif"></picture><br><br>
+<picture><img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/gif/line.gif"></picture><br><br>
 
-## <picture><img src="https://github.com/Wesleiigor/Westi_home/blob/master/img/gif/cert1.gif" width ="25"></picture><b> Certificações</b>
+## <picture><img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/gif/cert1.gif" width ="25"></picture><b> Certificações</b>
 
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=3BCB8CB68DD3791E81F4725AB89FB6CB2C5CA4D42AEBDE3790D3D62187DECDC6" target="_blank">
-<img src="https://github.com/Wesleiigor/Westi_home/blob/master/png/1.png" width = "150" >
+<img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/png/1.png" width = "150" >
 </a>
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=735ECA852AFF911D8155D78D946123C0318682C0C0A9DFE812B44C5A7773BCF0" target="_blank">
-<img src="https://github.com/Wesleiigor/Westi_home/blob/master/png/2.png" width = "150" >
+<img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/png/2.png" width = "150" >
 </a>
 <a href="https://www.credly.com/badges/a7da2c5e-d99b-4453-87df-1ac94af8c253?source=linked_in_profile" target="_blank">
-<img src="https://github.com/Wesleiigor/Westi_home/blob/master/png/3.png" width = "150" >
+<img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/png/3.png" width = "150" >
 </a>
 <a href="https://www.credly.com/badges/c69ecb59-308e-42e5-9ca8-79754b932776/linked_in" target="_blank">
-<img src="https://github.com/Wesleiigor/Westi_home/blob/master/png/4.png" width = "150" >
+<img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/png/4.png" width = "150" >
 </a>
 <a href="https://www.credly.com/badges/4576615f-af33-45c5-a73b-9da1a33e4833/linked_in_profile" target="_blank">
-<img src="https://github.com/Wesleiigor/Westi_home/blob/master/png/5.png" width = "150" >
+<img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/png/5.png" width = "150" >
 </a>
 <br>
 <br>
 
-<picture><img src="https://github.com/Wesleiigor/Westi_home/blob/master/img/gif/line.gif"></picture><br><br>
+<picture><img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/gif/line.gif"></picture><br><br>
 
-## <picture><img src="https://github.com/Wesleiigor/Westi_home/blob/master/img/gif/code.gif" width ="25"></picture><b> Skills</b>
+## <picture><img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/gif/code.gif" width ="25"></picture><b> Skills</b>
 <br>
 
 <p align="center">
@@ -99,4 +99,4 @@
 
 <br>
 
-<picture><img src="https://github.com/Wesleiigor/Westi_home/blob/master/img/gif/line.gif"></picture><br><br>
+<picture><img src="https://github.com/Wesleiigor/Wesleiigor/blob/main/img/gif/line.gif"></picture><br><br>
